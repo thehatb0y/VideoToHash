@@ -1,0 +1,145 @@
+{
+    "MaxPixels_1": 168883200,
+    "MaxPixels_2": 168883200,
+    "Resolution_1": "640 x 360",
+    "Resolution_2": "640 x 360",
+    "FramesPerImage_1": 733,
+    "FramesPerImage_2": 733,
+    "Comparisons": [
+        {
+            "Index": 0,
+            "HashPointer1": "826da51a2d727976",
+            "HashPointer2": "826da51a2d7279d6",
+            "HashPointerNormalizedHammingDistance": 0.03125,
+            "Hash1": "ca15f7acc0bf3301",
+            "Hash2": "cb15f6a9c2bc3b01",
+            "NormalizedHammingDistance": 0.125
+        },
+        {
+            "Index": 1,
+            "HashPointer1": "9f18807f41575f62",
+            "HashPointer2": "9f08a07f41575f62",
+            "HashPointerNormalizedHammingDistance": 0.03125,
+            "Hash1": "a0a4b43f1f1b5b4a",
+            "Hash2": "a4a4b43f1f1b4b4a",
+            "NormalizedHammingDistance": 0.03125
+        },
+        {
+            "Index": 2,
+            "HashPointer1": "99eb841ac0745ed7",
+            "HashPointer2": "99eb841ac0745ed7",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "ad4bdaf5a41a2625",
+            "Hash2": "ed4acaf5a41a2635",
+            "NormalizedHammingDistance": 0.0625
+        },
+        {
+            "Index": 3,
+            "HashPointer1": "b1eb8418c0f45ed7",
+            "HashPointer2": "b1eb8418c0f45ed7",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "f48a0378fc8e59f0",
+            "Hash2": "f08e0778fc864df0",
+            "NormalizedHammingDistance": 0.09375
+        },
+        {
+            "Index": 4,
+            "HashPointer1": "c9a9a93fd6da5042",
+            "HashPointer2": "c9a9a937d6da5842",
+            "HashPointerNormalizedHammingDistance": 0.03125,
+            "Hash1": "8e314ed5ea0e718e",
+            "Hash2": "8c315cd5ea0e738e",
+            "NormalizedHammingDistance": 0.0625
+        },
+        {
+            "Index": 5,
+            "HashPointer1": "8da98f3d58d64e18",
+            "HashPointer2": "8da98f3d58d64e18",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "cd2449c21bcfe789",
+            "Hash2": "c90449861fdfe789",
+            "NormalizedHammingDistance": 0.09375
+        },
+        {
+            "Index": 6,
+            "HashPointer1": "892ba18bd4d87e72",
+            "HashPointer2": "892ba18bd4d87e72",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "a96f0678832f8b2d",
+            "Hash2": "ab6d0674822f8f6c",
+            "NormalizedHammingDistance": 0.125
+        },
+        {
+            "Index": 7,
+            "HashPointer1": "a4284d3f9d4f58d4",
+            "HashPointer2": "a4a84d3f9d4f50d4",
+            "HashPointerNormalizedHammingDistance": 0.03125,
+            "Hash1": "c8941796cf2f0b56",
+            "Hash2": "a99413978f2e3356",
+            "NormalizedHammingDistance": 0.15625
+        },
+        {
+            "Index": 8,
+            "HashPointer1": "a40c4d3ddf5854ec",
+            "HashPointer2": "a40c4d3ddf5854ec",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "f1e2b7cc970ed120",
+            "Hash2": "f1e0b7cc961ec528",
+            "NormalizedHammingDistance": 0.09375
+        },
+        {
+            "Index": 9,
+            "HashPointer1": "a959bd3e50545ad4",
+            "HashPointer2": "a959bd3e50545ad4",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "f0d2aacaad45a96a",
+            "Hash2": "f1d2a8daac45a86b",
+            "NormalizedHammingDistance": 0.09375
+        },
+        {
+            "Index": 10,
+            "HashPointer1": "9d2ba5195046de73",
+            "HashPointer2": "9d2ba5195046de73",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "ec717cdcf0aca828",
+            "Hash2": "ea617cdcf0aca928",
+            "NormalizedHammingDistance": 0.0625
+        },
+        {
+            "Index": 11,
+            "HashPointer1": "91aba1fa547c5ae0",
+            "HashPointer2": "99aba1f8547c5ae0",
+            "HashPointerNormalizedHammingDistance": 0.03125,
+            "Hash1": "94eb82346bd4ac6b",
+            "Hash2": "94eb823c6bd4a86b",
+            "NormalizedHammingDistance": 0.03125
+        },
+        {
+            "Index": 12,
+            "HashPointer1": "d9a9a17a507cdac8",
+            "HashPointer2": "99a9a17a547cdac8",
+            "HashPointerNormalizedHammingDistance": 0.03125,
+            "Hash1": "eb24dda708c1a7ca",
+            "Hash2": "eb24dda708d0a7ca",
+            "NormalizedHammingDistance": 0.03125
+        },
+        {
+            "Index": 13,
+            "HashPointer1": "993ba37ad85a4ae0",
+            "HashPointer2": "993ba37ad85a4ae0",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "ff61214555f55151",
+            "Hash2": "fe2a1b414155d59d",
+            "NormalizedHammingDistance": 0.3125
+        },
+        {
+            "Index": 14,
+            "HashPointer1": "b129a1fa48fcdae0",
+            "HashPointer2": "b129a1fa48fcdae0",
+            "HashPointerNormalizedHammingDistance": 0.0,
+            "Hash1": "ed4656586dc6c5e0",
+            "Hash2": "e946466f6dc0ccd4",
+            "NormalizedHammingDistance": 0.21875
+        }
+    ]
+}
